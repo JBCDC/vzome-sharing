@@ -16,10 +16,10 @@ The name truncated icosidodecahedron, given originally by Johannes Kepler, is mi
 ***
 There are 13 Archimedean solids (not counting the elongated square gyrobicupola; 15 if the mirror images of two enantiomorphs, the snub cube and snub dodecahedron, are counted separately). Sorted by volume:
 
-Cuboctahedron (rhombitetratetrahedron, triangular gyrobicupola)
-Truncated tetrahedron
-Snub cube (snub cuboctahedron)
-Rhombicuboctahedron (small rhombicuboctahedron, elongated square orthobicupola)
+1. Cuboctahedron (rhombitetratetrahedron, triangular gyrobicupola)
+2. Truncated tetrahedron
+3. Snub cube (snub cuboctahedron)
+4. Rhombicuboctahedron (small rhombicuboctahedron, elongated square orthobicupola)
 Truncated octahedron (truncated tetratetrahedron)
 Truncated cube
 Icosidodecahedron (pentagonal gyrobirotunda)
