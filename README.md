@@ -32,3 +32,7 @@ There are 13 Archimedean solids (not counting the elongated square gyrobicupola;
 https://en.wikipedia.org/wiki/Archimedean_solid
 ***
 Platonic Solids and the Quaternions https://math.ucr.edu/home/baez/platonic.html
+***
+The Zome system is especially good at modeling 1-dimensional skeleta of highly symmetric objects in 3- and 4-dimensional Euclidean space. The most prominent among these are the five Platonic solids, and the 4-dimensional polytopes related to the 120-cell and the 600-cell. https://www.wikiwand.com/en/Zometool 
+***
+
