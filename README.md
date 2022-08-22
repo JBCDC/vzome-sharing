@@ -40,7 +40,12 @@ The Zome system is especially good at modeling 1-dimensional skeleta of highly s
 Johannes Kepler in Harmonices Mundi (1618) named this polyhedron a rhombicosidodecahedron, being short for truncated icosidodecahedral rhombus, with icosidodecahedral rhombus being his name for a rhombic triacontahedron. There are different truncations of a rhombic triacontahedron into a topological rhombicosidodecahedron: Prominently its rectification (left), the one that creates the uniform solid (center), and the rectification of the dual icosidodecahedron (right), which is the core of the dual compound.
 
 It can also be called an expanded or cantellated dodecahedron or icosahedron, from truncation operations on either uniform polyhedron.
+
 https://www.wikiwand.com/en/Zometool 
 ***
-![The Zometool node](https://upload.wikimedia.org/wikipedia/commons/f/f8/Zome_vertices.jpg?1661166469568) A version with golden rectangles is used as vertex element of the construction set Zometool.  https://www.wikiwand.com/en/Rhombicosidodecahedron
+![The Zometool node](https://upload.wikimedia.org/wikipedia/commons/f/f8/Zome_vertices.jpg?1661166469568) A version with golden rectangles is used as vertex element of the construction set Zometool.  
+
+![Rectified rectified rhombic triacontahedron](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png/800px-Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png?1661167050795)
+
+https://www.wikiwand.com/en/Rhombicosidodecahedron
 *** 
