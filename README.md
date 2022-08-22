@@ -28,6 +28,7 @@ There are 13 Archimedean solids (not counting the elongated square gyrobicupola;
 10. Truncated cuboctahedron (great rhombicuboctahedron)
 11. Truncated icosahedron
 12. Truncated dodecahedron
-13.  Truncated icosidodecahedron (great rhombicosidodecahedron) https://en.wikipedia.org/wiki/Archimedean_solid
+13.  Truncated icosidodecahedron (great rhombicosidodecahedron) 
+https://en.wikipedia.org/wiki/Archimedean_solid
 ***
 Platonic Solids and the Quaternions https://math.ucr.edu/home/baez/platonic.html
