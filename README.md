@@ -35,4 +35,6 @@ Platonic Solids and the Quaternions https://math.ucr.edu/home/baez/platonic.html
 ***
 The Zome system is especially good at modeling 1-dimensional skeleta of highly symmetric objects in 3- and 4-dimensional Euclidean space. The most prominent among these are the five Platonic solids, and the 4-dimensional polytopes related to the 120-cell and the 600-cell. https://www.wikiwand.com/en/Zometool 
 ***
+![https://myoctocat.com/assets/images/base-octocat.svg](https://upload.wikimedia.org/wikipedia/commons/5/5a/P4-A11-P5.gif?1661164970388))
+***
 
