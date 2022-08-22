@@ -37,7 +37,7 @@ The Zome system is especially good at modeling 1-dimensional skeleta of highly s
 ***
 ![rhombicosidodecahedron](https://upload.wikimedia.org/wikipedia/commons/5/5a/P4-A11-P5.gif?1661164970388) Expansion of either a dodecahedron or an icosahedron creates a rhombicosidodecahedron. 
 
-Johannes Kepler in Harmonices Mundi (1618) named this polyhedron a rhombicosidodecahedron, being short for truncated icosidodecahedral rhombus, with icosidodecahedral rhombus being his name for a rhombic triacontahedron.[1] There are different truncations of a rhombic triacontahedron into a topological rhombicosidodecahedron: Prominently its rectification (left), the one that creates the uniform solid (center), and the rectification of the dual icosidodecahedron (right), which is the core of the dual compound.
+Johannes Kepler in Harmonices Mundi (1618) named this polyhedron a rhombicosidodecahedron, being short for truncated icosidodecahedral rhombus, with icosidodecahedral rhombus being his name for a rhombic triacontahedron. There are different truncations of a rhombic triacontahedron into a topological rhombicosidodecahedron: Prominently its rectification (left), the one that creates the uniform solid (center), and the rectification of the dual icosidodecahedron (right), which is the core of the dual compound.
 
 It can also be called an expanded or cantellated dodecahedron or icosahedron, from truncation operations on either uniform polyhedron.
 https://www.wikiwand.com/en/Zometool 
