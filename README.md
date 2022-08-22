@@ -45,7 +45,7 @@ https://www.wikiwand.com/en/Zometool
 ***
 ![The Zometool node](https://upload.wikimedia.org/wikipedia/commons/f/f8/Zome_vertices.jpg?1661166469568) A version with golden rectangles is used as vertex element of the construction set Zometool.  
 
-![Rectified rectified rhombic triacontahedron](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png/800px-Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png?1661167050795)
+![Rectified rectified rhombic triacontahedron](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png/800px-Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png?1661167050795) Rectified rectified rhombic triacontahedron. 
 
 https://www.wikiwand.com/en/Rhombicosidodecahedron
 *** 
