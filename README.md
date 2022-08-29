@@ -64,7 +64,7 @@ https://www.wikiwand.com/en/Rhombicosidodecahedron
 
 ***
 
-<img src="https://github.com/JBCDC/vzome-sharing/blob/main/struts.jpg" alt="Zometool struts" width="250"/>
+<img src="https://github.com/JBCDC/vzome-sharing/blob/main/struts.jpg" alt="Zometool struts" width="500"/>
 
 Relative sizes of Zometools struts (x0, x1, x2 for x = g, b, r, y)
 
