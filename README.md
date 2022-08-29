@@ -86,7 +86,7 @@ https://www.wikiwand.com/en/Rhombicosidodecahedron
 
 <img src="https://github.com/JBCDC/vzome-sharing/blob/main/struts.jpg" alt="Zometool struts" width="500"/>
 
-Relative sizes of Zometool struts (s0, s1, s2 for s = g, b, r, y). The ratios s2/s1 = s1/s0 = Phi for all s. 
+Relative lengths of Zometool struts (s0, s1, s2 for s = g, b, r, y). The ratios s2/s1 = s1/s0 = Phi for all s. 
 
 Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) triangles.  
 
