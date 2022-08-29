@@ -102,4 +102,11 @@ https://jbcdc.github.io/vzome-sharing/2022/08/29/tetracube2-15-47-47.html
 
 *** 
 
+Yellow struts as diagonals of cubes 
+
+<img src="https://github.com/JBCDC/vzome-sharing/blob/main/2022/08/29/16-48-32-CubeDiag/CubeDiag.png" alt="Cube Diagonal" width="500"/>
+
+https://jbcdc.github.io/vzome-sharing/2022/08/29/CubeDiag-16-48-32.html
+
+*** 
 
