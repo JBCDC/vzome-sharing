@@ -50,7 +50,7 @@ It can also be called an expanded or cantellated dodecahedron or icosahedron, fr
 https://www.wikiwand.com/en/Zometool 
 ***
 
-<img src="(https://upload.wikimedia.org/wikipedia/commons/f/f8/Zome_vertices.jpg?1661166469568" alt="Zometool node" width="250"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Zome_vertices.jpg?1661166469568" alt="Zometool node" width="250"/>
 
 A version with golden rectangles is used as vertex element of the construction set Zometool.  
 
