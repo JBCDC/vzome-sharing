@@ -51,7 +51,7 @@ https://www.wikiwand.com/en/Zometool
 ***
 ![The Zometool node](https://upload.wikimedia.org/wikipedia/commons/f/f8/Zome_vertices.jpg?1661166469568) A version with golden rectangles is used as vertex element of the construction set Zometool.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png/800px-Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png?1661167050795" alt="[Rectified rectified rhombic triacontahedron" width="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png/800px-Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png?1661167050795" alt="[Rectified rectified rhombic triacontahedron" width="250"/>
 
 ![Rectified rectified rhombic triacontahedron](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png/800px-Nonuniform_rhombicosidodecahedron_as_rectified_rhombic_triacontahedron_max.png?1661167050795) Rectified rhombic triacontahedron. In Euclidean geometry, rectification, also known as critical truncation or complete-truncation is the process of truncating a polytope by marking the midpoints of all its edges, and cutting off its vertices at those points. The resulting polytope will be bounded by vertex figure facets and the rectified facets of the original polytope.
 
