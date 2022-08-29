@@ -92,7 +92,7 @@ Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) tria
 
 ***
 
-<img src="[https://JBCDC.github.io/vzome-sharing/2022/08/29/15-26-19-tetracube/tetracube.png" alt="Tetracube" width="500"/>
+<img src="https://JBCDC.github.io/vzome-sharing/2022/08/29/15-26-19-tetracube/tetracube.png" alt="Tetracube" width="500"/>
 
 Green struts as diagonals of squares (root of square 2). 
 
