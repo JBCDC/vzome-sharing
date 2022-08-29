@@ -98,6 +98,8 @@ Green struts as diagonals of squares (root of square 2).
 
 https://jbcdc.github.io/vzome-sharing/2022/08/29/tetracube-15-26-19.html
 
+https://jbcdc.github.io/vzome-sharing/2022/08/29/tetracube2-15-47-47.html
+
 *** 
 
 
