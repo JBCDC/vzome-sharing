@@ -96,6 +96,8 @@ Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) tria
 
 Green struts as diagonals of squares (root of square 2). 
 
+https://jbcdc.github.io/vzome-sharing/2022/08/29/tetracube-15-26-19.html
+
 *** 
 
 
