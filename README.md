@@ -66,6 +66,8 @@ https://www.wikiwand.com/en/Rhombicosidodecahedron
 
 <img src="https://github.com/JBCDC/vzome-sharing/blob/main/struts.jpg" alt="Zometool struts" width="500"/>
 
-Relative sizes of Zometool struts (x0, x1, x2 for x = g, b, r, y). Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) triangles.  
+Relative sizes of Zometool struts (x0, x1, x2 for x = g, b, r, y). The ratios x2/x1 = x1/x0 = Phi for all x. 
+
+Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) triangles.  
 
 ***
