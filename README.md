@@ -61,4 +61,11 @@ A version with golden rectangles is used as vertex element of the construction s
 Rectified rhombic triacontahedron. In Euclidean geometry, rectification, also known as critical truncation or complete-truncation is the process of truncating a polytope by marking the midpoints of all its edges, and cutting off its vertices at those points. The resulting polytope will be bounded by vertex figure facets and the rectified facets of the original polytope.
 
 https://www.wikiwand.com/en/Rhombicosidodecahedron
-*** 
+
+***
+
+<img src="https://github.com/JBCDC/vzome-sharing/blob/main/struts.jpg" alt="Zometool struts" width="250"/>
+
+Relative sizes of Zometools struts (x0, x1, x2 for x = g, b, r, y)
+
+***
