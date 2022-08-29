@@ -6,14 +6,27 @@ This is a template for repositories used to share vZome designs.  See [instructi
 zome
 Zometools
 
-There are very few rules with Zometool: If it works, it works perfectly. Take it apart, don't break it apart. Keep your parts organized. https://www.zometool.com/first-time/
-***
-ABS or Acrylonitrile butadiene styrene is a common thermoplastic polymer typically used for injection molding applications. This engineering plastic is popular due to its low production cost and the ease with which the material is machined by plastic manufacturers. https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene
+There are very few rules with Zometool: If it works, it works perfectly. Take it apart, don't break it apart. Keep your parts organized.
 
-Theoretical basis: Some Solid (Three-dimensional): Geometrical Facts about the Golden Section https://r-knott.surrey.ac.uk/Fibonacci/phi3DGeom.html
+https://www.zometool.com/first-time/
+
 ***
-The name truncated icosidodecahedron, given originally by Johannes Kepler, is misleading. An actual truncation of an icosidodecahedron has rectangles instead of squares. This nonuniform polyhedron is topologically equivalent to the Archimedean solid. https://en.wikipedia.org/wiki/Truncated_icosidodecahedron
+ABS or Acrylonitrile butadiene styrene is a common thermoplastic polymer typically used for injection molding applications. This engineering plastic is popular due to its low production cost and the ease with which the material is machined by plastic manufacturers. 
+
+https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene
+
+Theoretical basis: Some Solid (Three-dimensional): Geometrical Facts about the Golden Section 
+
+https://r-knott.surrey.ac.uk/Fibonacci/phi3DGeom.html
+
 ***
+
+The name truncated icosidodecahedron, given originally by Johannes Kepler, is misleading. An actual truncation of an icosidodecahedron has rectangles instead of squares. This nonuniform polyhedron is topologically equivalent to the Archimedean solid. 
+
+https://en.wikipedia.org/wiki/Truncated_icosidodecahedron
+
+***
+
 There are 13 Archimedean solids (not counting the elongated square gyrobicupola; 15 if the mirror images of two enantiomorphs, the snub cube and snub dodecahedron, are counted separately). Sorted by volume:
 
 1. Cuboctahedron (rhombitetratetrahedron, triangular gyrobicupola)
@@ -28,11 +41,17 @@ There are 13 Archimedean solids (not counting the elongated square gyrobicupola;
 10. Truncated cuboctahedron (great rhombicuboctahedron)
 11. Truncated icosahedron
 12. Truncated dodecahedron
-13.  Truncated icosidodecahedron (great rhombicosidodecahedron) 
+13.  Truncated icosidodecahedron (great rhombicosidodecahedron)
+
 https://en.wikipedia.org/wiki/Archimedean_solid
+
 ***
-Platonic Solids and the Quaternions https://math.ucr.edu/home/baez/platonic.html
+Platonic Solids and the Quaternions 
+
+https://math.ucr.edu/home/baez/platonic.html
+
 ***
+
 The Zome system is especially good at modeling 1-dimensional skeleta of highly symmetric objects in 3- and 4-dimensional Euclidean space. The most prominent among these are the five Platonic solids, and the 4-dimensional polytopes related to the 120-cell and the 600-cell. 
 
 https://www.wikiwand.com/en/Zometool 
@@ -48,6 +67,7 @@ Johannes Kepler in Harmonices Mundi (1618) named this polyhedron a rhombicosidod
 It can also be called an expanded or cantellated dodecahedron or icosahedron, from truncation operations on either uniform polyhedron.
 
 https://www.wikiwand.com/en/Zometool 
+
 ***
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Zome_vertices.jpg?1661166469568" alt="Zometool node" width="250"/>
