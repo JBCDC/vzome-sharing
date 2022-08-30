@@ -106,7 +106,7 @@ https://jbcdc.github.io/vzome-sharing/2022/08/29/tetracube2-15-47-47.html
 
 Yellow struts as diagonals of cubes 
 
-https://jbcdc.github.io/vzome-sharing/2022/08/29/CubeDiag-16-48-32.html
+https://jbcdc.github.io/vzome-sharing/2022/08/29/CubeDiag-20-33-00.html
 
 *** 
 
