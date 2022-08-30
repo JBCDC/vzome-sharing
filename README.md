@@ -120,6 +120,7 @@ https://www.symbolab.com/geometry-calculator#
  
  ***
  Parallelogram
+ 
  <img src="https://JBCDC.github.io/vzome-sharing/2022/08/30/10-11-54-Parallelogram/Parallelogram.png" alt="Parallelogram" width="500" />
  
  Two parallelograms (y1=1 and y2=Phi), with side diagonals (r2=Phi), orthogonally linked by r1=1 struts and volume diagonal (g2=Phi). Lengths in orbit units relative to each color field. Relative lengths of Zometool struts (s0, s1, s2 for s = g, b, r, y). The ratios s2/s1 = s1/s0 = Phi for all s.
