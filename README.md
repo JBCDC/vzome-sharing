@@ -110,7 +110,9 @@ https://jbcdc.github.io/vzome-sharing/2022/08/29/CubeDiag-20-33-00.html
 
 *** 
 
- <img src="https://JBCDC.github.io/vzome-sharing/2022/08/30/09-35-49-Rhombus3D/Rhombus3D.png" />
+https://www.symbolab.com/geometry-calculator#
+
+ <img src="https://JBCDC.github.io/vzome-sharing/2022/08/30/09-35-49-Rhombus3D/Rhombus3D.png" alt="3D Rhombus" width="500"/>
  
  Three yellow rhombi (y1=1) orthogonally linked by y0 (Phi-1). Blue (b1=1) and green (g1=1) diagonals shown. Lengths in orbit units. 
  
