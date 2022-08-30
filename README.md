@@ -128,3 +128,15 @@ https://www.symbolab.com/geometry-calculator#
  https://jbcdc.github.io/vzome-sharing/2022/08/30/Parallelogram-10-11-54.html
  
  *** 
+ 
+ Golden Rectangle 
+ 
+ <img src="https://JBCDC.github.io/vzome-sharing/2022/08/30/12-32-25-GoldenR/GoldenR.png" alt="Golden Rectangle" width="500" />
+ 
+ Golden rectangle built on unit square (b1=1), green struts as diagonals of squares. The diagonals of golden rectangles do not belong to the Zome system.  
+ 
+ https://jbcdc.github.io/vzome-sharing/2022/08/30/GoldenR-12-32-25.html
+ 
+ Diagonal of Golden Rectangle = Phi*sqtr(1+(1/[Phi]^2)). 
+ 
+ https://www.calculatoratoz.com/en/diagonal-of-golden-rectangle-calculator/Calc-28799#UserLogPanel 
