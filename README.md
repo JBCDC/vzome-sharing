@@ -84,32 +84,6 @@ https://www.wikiwand.com/en/Rhombicosidodecahedron
 
 ***
 
-<img src="https://github.com/JBCDC/vzome-sharing/blob/main/struts.jpg" alt="Zometool struts" width="500"/>
-
-Relative lengths of Zometool struts (s0, s1, s2 for s = g, b, r, y). The ratios s2/s1 = s1/s0 = Phi for all s. 
-
-b0 = 0.618  
-b1 = 1.000  (referent)  
-b2 = 1.618  
-
-g0 = 0.874   
-g1 = 1.414  
-g2 = 2.288  
-
-y0 = 0.535  
-y1 = 0.866  
-y2 = 1.401  
-
-r0 = 0.588  
-r1 = 0.951  
-r2 = 1.539  
-
-https://www.omnicalculator.com/math/golden-ratio
-
-Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) triangles.  
-
-***
-
 <img src="https://JBCDC.github.io/vzome-sharing/2022/08/29/15-26-19-tetracube/tetracube.png" alt="Tetracube" width="500"/>
 
 Green struts as diagonals of squares (root of square 2). 
@@ -176,4 +150,30 @@ r2 = r1Phi
  https://www.omnicalculator.com/math/golden-ratio  
  
  ***
+ 
+ <img src="https://github.com/JBCDC/vzome-sharing/blob/main/struts.jpg" alt="Zometool struts" width="500"/>
+
+Relative lengths of Zometool struts (s0, s1, s2 for s = g, b, r, y). The ratios s2/s1 = s1/s0 = Phi for all s. 
+
+b0 = 0.618  
+b1 = 1.000  (referent)  
+b2 = 1.618  
+
+g0 = 0.874   
+g1 = 1.414  
+g2 = 2.288  
+
+y0 = 0.535  
+y1 = 0.866  
+y2 = 1.401  
+
+r0 = 0.588  
+r1 = 0.951  
+r2 = 1.539  
+
+https://www.omnicalculator.com/math/golden-ratio
+
+Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) triangles.  
+
+***
  
