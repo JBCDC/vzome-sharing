@@ -88,6 +88,22 @@ https://www.wikiwand.com/en/Rhombicosidodecahedron
 
 Relative lengths of Zometool struts (s0, s1, s2 for s = g, b, r, y). The ratios s2/s1 = s1/s0 = Phi for all s. 
 
+b0 = 1/Phi  = 0.618  
+b1 = 1      = 1.000  
+b2 = Phi    = 1.618  
+
+g0 = g1*1/Phi = 0.874   
+g1 = sqrt(2)  = 1.414  
+g2 = g1*Phi   = 2.288  
+
+y0 = y1*1/Phi      = 0.535  
+y1 = [sqrt(3)]*1/2 = 0.866  
+y2 = y1*Phi        = 1.401  
+
+r0 = [sqrt(1 + 1/Phi^2)]*1/2 = 0.588  
+r1 = r0*Phi                  = 0.951  
+r2 = r1*Phi                  = 1.539  
+
 Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) triangles.  
 
 ***
@@ -133,7 +149,7 @@ https://www.symbolab.com/geometry-calculator#
  
  <img src="https://JBCDC.github.io/vzome-sharing/2022/08/31/05-32-47-UnitCubeGoldenRectangle/UnitCubeGoldenRectangle.png" alt="Golden Rectangle" width="500" />
  
-Golden rectangle derived from unit cube (b1 struts). Relative lengths of unit square diagonal (g1), unit cube diagonal (2 y1) and golden rectangle diagonal (2 r0) shown. A 3D design created in vZome. Use your mouse or touch to interact.   
+Golden rectangle derived from unit cube (b1 struts). Relative lengths of unit square diagonal (g1), unit cube diagonal (2 y1) and golden rectangle diagonal (2 r0) shown.  
  
 https://jbcdc.github.io/vzome-sharing/2022/08/31/UnitCubeGoldenRectangle-05-32-47.html
  
