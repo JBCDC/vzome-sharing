@@ -89,7 +89,7 @@ https://www.wikiwand.com/en/Rhombicosidodecahedron
 Relative lengths of Zometool struts (s0, s1, s2 for s = g, b, r, y). The ratios s2/s1 = s1/s0 = Phi for all s. 
 
 b0 = 0.618  
-b1 = 1.000  (referent)
+b1 = 1.000  (referent)  
 b2 = 1.618  
 
 g0 = 0.874   
