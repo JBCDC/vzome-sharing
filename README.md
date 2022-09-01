@@ -195,7 +195,7 @@ B  = cos(00°) = 1 (referent)
 R  = cos(18°) = 0.95105652  
 Y  = cos(30°) = 0.86602540 = sqrt(3)/2  
 G  = cos(45°) = 0.70710678 = sqrt(2)/2  
-2G: length of g0
+2G: length of g0 (n=0)  
    
 Y: 360/12 = 30  
 R: 360/20 = 18  
