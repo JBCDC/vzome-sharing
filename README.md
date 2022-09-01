@@ -179,10 +179,10 @@ Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) tria
  
 Strut length formula: A*T^n 
 
-A = 1 [blue], 
-A = cos 30º [yellow], 
+A = 1 [blue]   
+A = cos 30º [yellow]   
 A = cos 18º [red]  
-A = cos 45º [green], 
+A = cos 45º [green]   
 
 T = Phi = 2cos 36º  
   
