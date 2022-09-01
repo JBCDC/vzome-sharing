@@ -177,3 +177,28 @@ Note difference between equilateral (g-g-g and b-b-b) and isosceles (y-y-b) tria
 
 ***
  
+Strut length formula: A*T^n 
+
+A = 1 [blue], 
+A = cos 30º [yellow], 
+A = cos 18º [red]  
+A = cos 45º [green], 
+
+T = Phi = 2cos 36º  
+  
+n = 0 (small strut)  
+n = 1 (medium strut)  
+n = 2 (large strut) 
+
+For n=0,  
+B  = cos(00°) = 1 (referent)  
+R  = cos(18°) = 0.95105652  
+Y  = cos(30°) = 0.86602540 = sqrt(3)/2  
+G  = cos(45°) = 0.70710678 = sqrt(2)/2  
+2G: length of g0
+   
+Y: 360/12 = 30  
+R: 360/20 = 18  
+G: 360/08 = 45  
+
+*** 
