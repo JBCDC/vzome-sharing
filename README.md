@@ -203,3 +203,7 @@ R: 360/20 = 18
 G: 360/08 = 45  
 
 *** 
+
+The Zome by [JB](https://uhs71.wordpress.com/2022/09/07/zome/)
+
+
