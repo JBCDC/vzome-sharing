@@ -15,4 +15,4 @@ shared as a page, if you have a 'vzome-sharing' GitHub repository and you've fol
 [zometool]: https://zometool.com
 [help]: https://vzome.github.io/vzome/sharing.html  
 
-https://github.com/JBCDC/vzome-sharing/blob/main/README.md
+[My reference page](https://github.com/JBCDC/vzome-sharing/blob/main/README.md)
