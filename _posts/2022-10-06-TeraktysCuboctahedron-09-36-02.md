@@ -1,6 +1,6 @@
 ---
 title: Cosmic Dance
-description: Thw cosmic dance of the radially equilateral cubotahedron interlocked with a 3-D (tetrahedral) Pythagorean Tetraktys (n=20).    A 3D design created in vZome.  Use your mouse or touch to interact.
+description: The cosmic dance of the radially equilateral cuboctahedron interlocked with a 3-D (tetrahedral) Pythagorean Tetraktys (n=20).    A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://JBCDC.github.io/vzome-sharing/2022/10/06/09-36-02-TeraktysCuboctahedron/TeraktysCuboctahedron.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-Thw cosmic dance of the radially equilateral cubotahedron interlocked with a 3-D (tetrahedral) Pythagorean Tetraktys (n=20).  
+The cosmic dance of the radially equilateral cuboctahedron interlocked with a 3-D (tetrahedral) Pythagorean Tetraktys (n=20).  
 
 A 3D design created in vZome.  Use your mouse or touch to interact.
 
