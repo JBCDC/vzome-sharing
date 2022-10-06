@@ -21,7 +21,7 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
   <img src="https://JBCDC.github.io/vzome-sharing/2022/10/06/09-36-02-TeraktysCuboctahedron/TeraktysCuboctahedron.png" />
 </vzome-viewer>  
 
-The cubotahedron (B. Fuller's "jitterbug") can be progressively transformed into an icosahedron, octahedron, and tetrahedron by folding along the diagonals of its square sides. 
+The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed into an icosahedron, octahedron, and tetrahedron by folding along the diagonals of its square sides. 
 
 ![Jitterbug](http://s3.amazonaws.com/cosmometry/resources/images/000/000/098/original/jit_inout-10speed.gif)
 
