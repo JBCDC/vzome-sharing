@@ -25,6 +25,8 @@ The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed int
 
 References:
 
+[Jitterbug Cycle and Arrays](https://john-kostick.github.io/vzome-sharing/2022/07/19/Jitterbug-cycle-16-38-41.html)  
+
 [Vector Equilibrium & Isotropic Vector Matrix](https://cosmometry.net/vector-equilibrium-&-isotropic-vector-matrix)  
 
 [The Lightness of Being](http://www.lightnessofbeingbook.com/inside_what.html)  
