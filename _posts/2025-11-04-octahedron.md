@@ -1,11 +1,10 @@
 ---
-title: Cuboctahedron
-description: The construction of a cuboctahedron can be started from a cube or a regular octahedron, marking the midpoints of their edges, and cutting off all the vertices at those points. 
+title: Cosmic Dance
+description: The cosmic dance of the radially equilateral cuboctahedron interlocked with a 3-D (tetrahedral) Pythagorean Tetraktys (n=20).    A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://JBCDC.github.io/vzome-sharing/2022/10/06/09-36-02-TeraktysCuboctahedron/TeraktysCuboctahedron.png
 published: true
 layout: vzome
 ---
-
 
 {% comment %}
  - [***web page generated from this source***](<https://JBCDC.github.io/vzome-sharing/2022/10/06/TeraktysCuboctahedron-09-36-02.html>)
