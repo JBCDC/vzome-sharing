@@ -1,7 +1,7 @@
 ---
 title: Cuboctahedral SERENITY
 description: The radially equilateral cuboctahedron. A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://JBCDC.github.io/vzome-sharing/assets/cubaoctahedron2.jpeg"
+image: https://JBCDC.github.io/vzome-sharing/assets/cubaoctahedron2.jpeg
 published: true
 layout: vzome
 ---
