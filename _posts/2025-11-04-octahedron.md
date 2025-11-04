@@ -8,6 +8,12 @@ date: 2025-11-04 16:00:00 -0500
 
 **Download vZome file:** <a href="/assets/cuboctahedron.vzome" download>Download .vzome</a>
 
+{% comment %}
+ - [***web page generated from this source***](<https://JBCDC.github.io/vzome-sharing/2025/11/04/octahedron.html>)
+ - [data assets and more info](<https://github.com/JBCDC/vzome-sharing/tree/main/octahedron/>)
+ 
+{% endcomment %}
+
 **Preview:**  
 <!-- If your site supports embedding with an object or custom viewer, use the same pattern as existing posts -->
 <object data="/assets/cuboctahedron.vzome" type="application/octet-stream" width="640" height="480">
