@@ -13,3 +13,8 @@ date: 2025-11-04 16:00:00 -0500
 <object data="/assets/cuboctahedron.vzome" type="application/octet-stream" width="640" height="480">
   <p>Your browser does not support embedding .vZome files. Use the download link above.</p>
 </object>
+
+<vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
+       src="https://jbcdc.github.io/vzome-sharing/2025/11/04/octahedron.html" >
+  <img src="https://jbcdc.github.io/vzome-sharing/2025/11/04/octahedron.png" />
+</vzome-viewer>  
