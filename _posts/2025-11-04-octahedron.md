@@ -15,7 +15,7 @@ layout: vzome
 The radially equilateral cuboctahedron  
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
-       src="https://JBCDC.github.io/vzome-sharing/2022/10/06/09-36-02-TeraktysCuboctahedron/TeraktysCuboctahedron.vZome" >
+       src="https://JBCDC.github.io/vzome-sharing/assets/cuboctahedron.vZome" >
   <img src="https://JBCDC.github.io/vzome-sharing/2022/10/06/09-36-02-TeraktysCuboctahedron/TeraktysCuboctahedron.png" />
 </vzome-viewer>  
 
