@@ -1,7 +1,7 @@
 ---
 title: Cuboctahedron
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://JBCDC.github.io/vzome-sharing/2022/08/18/21-36-21-tetraoctadode/tetraoctadode.png
+
 published: true
 layout: vzome
 ---
@@ -15,7 +15,7 @@ layout: vzome
 A 3D design created in vZome.  Use your mouse or touch to interact.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
-       src="https://JBCDC.github.io/vzome-sharing/2022/08/18/21-36-21-tetraoctadode/tetraoctadode.vZome" >
-  <img src="https://JBCDC.github.io/vzome-sharing/2022/08/18/21-36-21-tetraoctadode/tetraoctadode.png" />
+       src="https://JBCDC.github.io/vzome-sharing/cuboctahedron.vZome" >
+
 </vzome-viewer>
 
