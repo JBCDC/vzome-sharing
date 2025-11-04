@@ -11,9 +11,9 @@ assets uploaded manualy because the share function in [vzome](https://www.vzome.
 {% endcomment %}
 
 
-<center>**SERENITY: The Noble Middle Path**
+<center>**SERENITY: The Noble Middle Path**</center>
+       
 The radially equilateral cuboctahedron representing the perfect balance of forces (SERENITY): 8 triangles (tetrahedra) and 6 squares (cubes).
-</center>  
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
        src="https://JBCDC.github.io/vzome-sharing/assets/cuboctahedron.vZome" >
