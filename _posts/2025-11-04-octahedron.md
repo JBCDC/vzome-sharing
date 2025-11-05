@@ -18,8 +18,14 @@ The radially equilateral cuboctahedron (Eightfold Path) representing the perfect
 
 ---
 
+**Magic and Geometry**:
+
+- Magicians use their will and imagination to interact with spatial networks, creating new geometric forms to align with their creative intentions or dismantle negative karmic patterns.
+- The process of creation involves harmonizing with the divine geometric order, drawing on the interconnectedness of celestial bodies and their spatial relationships.
 
 Reference: [Magic: The Science of Creation by Vicente Beltrán-Anglada](https://bookdown.org/becerra_je/POM-VBA/)
+
+---
 
 A 3D design created in vZome. Use your mouse or touch to interact.
 
