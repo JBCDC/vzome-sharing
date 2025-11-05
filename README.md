@@ -306,9 +306,6 @@ These are part of the **polyhedral groups**, which are subgroups of the full rot
 
 ---
 
-Would you like a symbolic chart or vZome model guide that maps these symmetry systems to archetypal meanings or construction strategies? I can also help you embed this comparison into your README or scroll index.
-
-
 ^^^
 
 # 🌐 vzome-sharing
