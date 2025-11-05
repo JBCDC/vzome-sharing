@@ -13,7 +13,7 @@ assets uploaded manualy because the share function in [vzome](https://www.vzome.
 
 <center><bold>SERENITY: The Noble Middle Path</bold></center>
        
-The radially equilateral cuboctahedron (Eightfold Path) representing the perfect balance of forces (SERENITY): 8 triangles (tetrahedra) and 6 squares (cubes). 
+The radially equilateral cuboctahedron (Eightfold Path) representing the perfect balance of forces (SERENITY): 8 triangles (tetrahedra) and 6 squares (semi-octahedra). 
 
 Reference: [Magic: The Science of Creation by Vicente Beltrán-Anglada](https://bookdown.org/becerra_je/POM-VBA/)
 
