@@ -300,7 +300,7 @@ date: 2025-11-04 16:00:00 -0500
   <p>Your browser does not support embedding .vZome files. Use the download link above.</p>
 </object>
 ```
-
+
 ### 5. Commit and verify
 - Use a commit message like: Add post for Octahedron of Serenity
 - Wait ~1–2 minutes for GitHub Pages to rebuild
@@ -321,6 +321,7 @@ Text formatting
 
 Code blocks
 <pre><code>```bashgit clone https://github.com/JBCDC/vzome-sharing.git```</code></pre>
+
 Links and images
 [link text](https://example.com)
 ![alt text](path-or-URL)
@@ -348,18 +349,10 @@ Blockquotes
 > This is a quote or note.
 
 
-## Optional Ritual Enhancements
+## Optional Enhancements
 - Add thumbnails or symbolic icons
 - Embed interactive viewers (copy from existing posts)
-- Include poetic changelogs or commit annotations
 - Link to related models or geometric families
-
-May each post be a scroll of symmetry, each commit a gesture of clarity.
-
-Would you like me to help you embed this into your repo now or generate a symbolic changelog entry to accompany it?
-
-
-
 
 ***
 
