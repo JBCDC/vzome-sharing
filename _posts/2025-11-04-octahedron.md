@@ -39,7 +39,7 @@ References:
 
 [Jitterbug Cycle and Arrays](https://john-kostick.github.io/vzome-sharing/2022/07/19/Jitterbug-cycle-16-38-41.html)  
 
-[Vector Equilibrium & Isotropic Vector Matrix](https://cosmometry.net/vector-equilibrium-&-isotropic-vector-matrix)  
+[Geometry of Thinking: Isotropic Vector Matrix](https://geometryofthinking.com/2023/08/21/isotropic-vector-matrix/)  
 
 [The Lightness of Being](http://www.lightnessofbeingbook.com/inside_what.html)  
 
