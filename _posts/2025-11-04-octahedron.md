@@ -39,6 +39,13 @@ The construction of a cuboctahedron can be started from a cube or a regular octa
 
 The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed into an icosahedron, octahedron, and tetrahedron by folding along the diagonals of its square sides. 
 
+<div align="center">
+  <img src="http://s3.amazonaws.com/cosmometry/resources/images/000/000/098/original/jit_inout-10speed.gif"/> 
+  <br>
+  <a href="https://tensegritywiki.com/index.php?title=Jitterbug">Jitterbug</a>
+</div>
+
+
 ![Jitterbug](http://s3.amazonaws.com/cosmometry/resources/images/000/000/098/original/jit_inout-10speed.gif)
 
 References:
