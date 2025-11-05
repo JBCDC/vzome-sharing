@@ -250,6 +250,116 @@ date: 2025-11-04 16:00:00 -0500
 <object data="/assets/octahedron-serenity.vzome" type="application/octet-stream" width="640" height="480">
   <p>Your browser does not support embedding .vZome files. Use the download link above.</p>
 </object>
+```
+
+Here’s your complete README.md starter file, Jose — tuned for your repository’s purpose, symbolic tone, and GitHub Pages publishing workflow. You can paste this directly into your repo’s root as README.md:
+# 🌐 vzome-sharing
+
+This repository hosts geometric designs created in [vZome](https://www.vzome.com/app/) and published via GitHub Pages at  
+🔗 [jbcdc.github.io/vzome-sharing](https://jbcdc.github.io/vzome-sharing)
+
+Each post represents a unique model — a ritualized act of sharing symmetry, structure, and symbolic insight.
+
+---
+
+## 🧩 Publishing Workflow (GitHub Web UI)
+
+To publish a new vZome design:
+
+### 1. Export your design from vZome
+- Save as a `.vzome` file to your PC
+- Use a short, URL-safe filename: lowercase, hyphens, no spaces  
+  _Example:_ `octahedron-serenity.vzome`
+
+### 2. Upload the asset to `/assets`
+- Navigate to the `assets` folder in this repo
+- Click **Add file → Upload files**
+- Commit the upload to `main`
+
+### 3. Create a new post in `_posts`
+- Click **Add file → Create new file**
+- Use the format: `_posts/YYYY-MM-DD-title-slug.md`  
+  _Example:_ `_posts/2025-11-04-octahedron-serenity.md`
+
+### 4. Paste and customize the following Markdown
+
+```markdown
+---
+layout: post
+title: "Octahedron of Serenity"
+date: 2025-11-04 16:00:00 -0500
+---
+
+**Description:** The octahedron symbolizes dynamic equilibrium and elemental clarity. This design explores axial symmetry and harmonic duality.
+
+**Download vZome file:**  
+<a href="/assets/octahedron-serenity.vzome" download>Download .vzome</a>
+
+**Preview:**  
+<object data="/assets/octahedron-serenity.vzome" type="application/octet-stream" width="640" height="480">
+  <p>Your browser does not support embedding .vZome files. Use the download link above.</p>
+</object>
+```
+
+### 5. Commit and verify
+- Use a commit message like: Add post for Octahedron of Serenity
+- Wait ~1–2 minutes for GitHub Pages to rebuild
+- Visit: `jbcdc.github.io/vzome-sharing`
+Confirm the new post appears and the asset is accessible
+
+# GitHub Markdown Primer
+
+Headings
+# H1
+## H2
+### H3
+
+
+Text formatting
+**bold**   *italic*   ~~strikethrough~~   `inline code`
+
+
+Code blocks
+<pre><code>```bashgit clone https://github.com/JBCDC/vzome-sharing.git```</code></pre>
+Links and images
+[link text](https://example.com)
+![alt text](path-or-URL)
+
+
+Lists
+- Item
+1. Ordered item
+
+
+Tables
+| Name      | Meaning             |
+|-----------|---------------------|
+| Octahedron | Equilibrium symbol |
+| Cube       | Stability symbol   |
+
+
+Task lists
+- [x] Export .vzome file
+- [x] Upload to /assets
+- [ ] Create post in _posts
+
+
+Blockquotes
+> This is a quote or note.
+
+
+## Optional Ritual Enhancements
+- Add thumbnails or symbolic icons
+- Embed interactive viewers (copy from existing posts)
+- Include poetic changelogs or commit annotations
+- Link to related models or geometric families
+
+May each post be a scroll of symmetry, each commit a gesture of clarity.
+
+Would you like me to help you embed this into your repo now or generate a symbolic changelog entry to accompany it?
+
+
+
 
 ***
 
