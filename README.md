@@ -204,23 +204,37 @@ G: 360/08 = 45
 
 *** 
 
-# Publishing vZome Designs to GitHub Pages
+# 🌐 vzome-sharing
 
-To add a new design using the GitHub web interface:
-🧩 Step-by-Step Workflow
-- Export your design from vZome:
+This repository hosts geometric designs created in [vZome](https://www.vzome.com/app/) and published via GitHub Pages at  
+🔗 [jbcdc.github.io/vzome-sharing](https://jbcdc.github.io/vzome-sharing)
 
-Save as a .vzome file with a short, URL-safe name (e.g., octahedron-serenity.vzome).
-- Upload the asset to /assets:
-- Navigate to the assets folder in this repo
-- Click Add file → Upload files
-- Commit the upload to main
-- Create a new post in _posts:
-- Click Add file → Create new file
-- Use the format: _posts/YYYY-MM-DD-title-slug.md
+Each post represents a unique model — a ritualized act of sharing symmetry, structure, and symbolic insight.
 
-Example: _posts/2025-11-04-octahedron-serenity.md
-- Paste and customize the following Markdown:
+---
+
+## 🧩 Publishing Workflow (GitHub Web UI)
+
+To publish a new vZome design:
+
+### 1. Export your design from vZome
+- Save as a `.vzome` file to your PC
+- Use a short, URL-safe filename: lowercase, hyphens, no spaces  
+  _Example:_ `octahedron-serenity.vzome`
+
+### 2. Upload the asset to `/assets`
+- Navigate to the `assets` folder in this repo
+- Click **Add file → Upload files**
+- Commit the upload to `main`
+
+### 3. Create a new post in `_posts`
+- Click **Add file → Create new file**
+- Use the format: `_posts/YYYY-MM-DD-title-slug.md`  
+  _Example:_ `_posts/2025-11-04-octahedron-serenity.md`
+
+### 4. Paste and customize the following Markdown
+
+```markdown
 ---
 layout: post
 title: "Octahedron of Serenity"
@@ -236,13 +250,6 @@ date: 2025-11-04 16:00:00 -0500
 <object data="/assets/octahedron-serenity.vzome" type="application/octet-stream" width="640" height="480">
   <p>Your browser does not support embedding .vZome files. Use the download link above.</p>
 </object>
-
-- Commit the post to main:
-- Use a message like Add post for Octahedron of Serenity
-- Verify on GitHub Pages:
-- Wait ~1–2 minutes for the site to rebuild
-- Visit: https://jbcdc.github.io/vzome-sharing/
-- Confirm the new post appears and the asset is accessible
 
 ***
 
