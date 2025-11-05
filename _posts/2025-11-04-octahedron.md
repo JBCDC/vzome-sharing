@@ -28,9 +28,9 @@ The construction of a cuboctahedron can be started from a cube or a regular octa
 [Wikipedia](https://en.wikipedia.org/wiki/Cuboctahedron) 
 
 <div align="center">
-  <img src="[path-to-image.png](https://transhimalayica.mx/wp-content/uploads/2025/03/ALBM-300x450.jpg)" alt="JB book Image" width="300"/>
+  <img src="https://transhimalayica.mx/wp-content/uploads/2025/03/ALBM-300x450.jpg" alt="JB book Image" width="300"/>
   <br>
-  <a href="[https://example.com](https://transhimalayica.mx/producto/a-little-book-of-magic/)">A Little Book of Magic by José Becerra]</a>
+  <a href="https://transhimalayica.mx/producto/a-little-book-of-magic/">A Little Book of Magic by José Becerra</a>
 </div>
 
 ![Magic](https://transhimalayica.mx/wp-content/uploads/2025/03/ALBM-300x450.jpg)
