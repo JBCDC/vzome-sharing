@@ -57,6 +57,23 @@ The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed int
 
 ---
 
+
+In the context of the Vector Equilibrium (VE) — also known as the cuboctahedron — the seven axes of symmetry refer to the imaginary lines around which the shape can be rotated and still look the same. These axes pass through opposite faces of the polyhedron and are grouped as follows:
+
+- 4 axes through opposite triangular faces (8 triangles total)
+
+- 3 axes through opposite square faces (6 squares total)
+
+Each axis defines a face-to-face spin — meaning you can rotate the VE around that axis and the geometry remains invariant.
+
+<div align="center">
+  <img src="https://geometryofthinking.com/wp-content/uploads/2023/10/seve-axes-ve.gif"/> 
+  <br>
+  <a href="https://geometryofthinking.com/2023/08/14/vector-equilibrium-and-the-ve/">The Seven Axes of Symmetry</a>
+</div>
+
+---
+
 References:
 
 [Jitterbug Cycle and Arrays](https://john-kostick.github.io/vzome-sharing/2022/07/19/Jitterbug-cycle-16-38-41.html)  
