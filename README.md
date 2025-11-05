@@ -204,6 +204,48 @@ G: 360/08 = 45
 
 *** 
 
+# Publishing vZome Designs to GitHub Pages
+
+To add a new design using the GitHub web interface:
+🧩 Step-by-Step Workflow
+- Export your design from vZome:
+
+Save as a .vzome file with a short, URL-safe name (e.g., octahedron-serenity.vzome).
+- Upload the asset to /assets:
+- Navigate to the assets folder in this repo
+- Click Add file → Upload files
+- Commit the upload to main
+- Create a new post in _posts:
+- Click Add file → Create new file
+- Use the format: _posts/YYYY-MM-DD-title-slug.md
+
+Example: _posts/2025-11-04-octahedron-serenity.md
+- Paste and customize the following Markdown:
+---
+layout: post
+title: "Octahedron of Serenity"
+date: 2025-11-04 16:00:00 -0500
+---
+
+**Description:** The octahedron symbolizes dynamic equilibrium and elemental clarity. This design explores axial symmetry and harmonic duality.
+
+**Download vZome file:**  
+<a href="/assets/octahedron-serenity.vzome" download>Download .vzome</a>
+
+**Preview:**  
+<object data="/assets/octahedron-serenity.vzome" type="application/octet-stream" width="640" height="480">
+  <p>Your browser does not support embedding .vZome files. Use the download link above.</p>
+</object>
+
+- Commit the post to main:
+- Use a message like Add post for Octahedron of Serenity
+- Verify on GitHub Pages:
+- Wait ~1–2 minutes for the site to rebuild
+- Visit: https://jbcdc.github.io/vzome-sharing/
+- Confirm the new post appears and the asset is accessible
+
+***
+
 The Zome by [JB](https://uhs71.wordpress.com/2022/09/07/zome/)
 
 
