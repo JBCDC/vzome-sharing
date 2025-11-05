@@ -6,10 +6,6 @@ published: true
 layout: vzome
 ---
 
-{% comment %}
-assets uploaded manualy because the share function in [vzome](https://www.vzome.com/app/) not working
-{% endcomment %}
-
 <div align="center">
   **SERENITY: The Noble Middle Path**
 </div>
