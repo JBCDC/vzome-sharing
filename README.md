@@ -204,6 +204,60 @@ G: 360/08 = 45
 
 *** 
 
+## 🌌 Extending vZome to Visualize Non-Euclidean Geometries
+
+While zome structures and vZome models are rooted in Euclidean geometry, they can be adapted to evoke non-Euclidean spaces — especially through symbolic layering, recursive tiling, and projection techniques.
+
+---
+
+### 🧭 Euclidean Foundations
+
+- Zome and Zometool are based on **icosahedral symmetry** and **Golden Ratio-based strut lengths**, which are inherently Euclidean.
+- vZome expands this by supporting alternate symmetry systems (e.g., octahedral, square-root-based lengths), allowing exploration of geometries that hint at non-Euclidean behavior.
+
+---
+
+### 🔮 Pathways to Non-Euclidean Visualization
+
+#### 1. Hyperbolic Geometry via Tiling and Projection
+- Approximate hyperbolic tilings (e.g., {7,3}, {5,4}) using recursive radial patterns and angular deficit.
+- Simulate **hyperbolic-like expansion** by increasing strut density outward from a center.
+
+#### 2. Spherical Geometry via Polyhedral Embedding
+- Project polyhedra onto spheres to evoke spherical geometry.
+- Model **geodesic domes** and great-circle arrangements using vZome’s symmetry tools.
+
+#### 3. Symbolic Curvature and Ritualized Embedding
+- Use irrational ratios (√2, √3) to suggest curvature.
+- Layer symmetry systems to evoke **multi-dimensional folds** or **curved manifolds**.
+
+---
+
+### 🧪 External Tools for True Non-Euclidean Embedding
+
+- **Hyperbolic visualization engines** (e.g., HyperRogue, Stanford’s Klein/Poincaré models)
+- **Observable notebooks** for mathematical transformations and symbolic overlays
+- Export vZome models as `.DAE` or `.OBJ` and reproject them into curved spaces using external engines
+
+---
+
+### 🌀 Integrative Possibilities
+
+- Combine Euclidean scaffolds with non-Euclidean overlays
+- Use symbolic annotations to mark transitions between flat and curved logic
+- Create hybrid models that remain constructible but evoke transcendence
+
+---
+
+### ✨ Symbolic Summary
+
+Zome is a Euclidean skeleton.  
+vZome is a portal.  
+Through symmetry, recursion, and projection, you can **ritualize curvature** and **visualize transcendence**.  
+Non-Euclidean geometry becomes not just a space, but a story — told in struts, spheres, and symbolic expansion.
+
+***
+
 # 🌐 vzome-sharing
 
 This repository hosts geometric designs created in [vZome](https://www.vzome.com/app/) and published via GitHub Pages at  
