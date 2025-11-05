@@ -27,15 +27,15 @@ A 3D design created in vZome. Use your mouse or touch to interact.
 The construction of a cuboctahedron can be started from a cube or a regular octahedron, marking the midpoints of their edges, and cutting off all the vertices at those points. This process is known as rectification, making the cuboctahedron being named the rectified cube and rectified octahedron. Buckminster Fuller found that the cuboctahedron is the only polyhedron in which the distance between its center to the vertex is the same as the length of its edges. In other words, it has the same length vectors in three-dimensional space, known as vector equilibrium. The rigid struts and the flexible vertices of a cuboctahedron may also be transformed progressively into a regular icosahedron, regular octahedron, regular tetrahedron. Fuller named this the jitterbug transformation. 
 [Wikipedia](https://en.wikipedia.org/wiki/Cuboctahedron) 
 
+---
+
 <div align="center">
   <img src="https://transhimalayica.mx/wp-content/uploads/2025/03/ALBM-300x450.jpg" alt="JB book Image" width="300"/>
   <br>
   <a href="https://transhimalayica.mx/producto/a-little-book-of-magic/">A Little Book of Magic by José Becerra</a>
 </div>
 
-![Magic](https://transhimalayica.mx/wp-content/uploads/2025/03/ALBM-300x450.jpg)
-
-[A Little Book of Magic by José Becerra](https://transhimalayica.mx/producto/a-little-book-of-magic/)
+---
 
 The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed into an icosahedron, octahedron, and tetrahedron by folding along the diagonals of its square sides. 
 
