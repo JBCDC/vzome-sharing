@@ -206,6 +206,8 @@ G: 360/08 = 45
 
 ## 🌌 Extending vZome to Visualize Non-Euclidean Geometries
 
+**Zome** is a portmanteau — a fusion of **zo**nohedron (a type of polyhedron with symmetrical zones) and do**me** (a curved architectural structure). This signals both spatial curvature and geometric regularity
+
 While zome structures and vZome models are rooted in Euclidean geometry, they can be adapted to evoke non-Euclidean spaces — especially through symbolic layering, recursive tiling, and projection techniques.
 
 ---
