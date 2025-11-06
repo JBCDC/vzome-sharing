@@ -62,6 +62,9 @@ The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed int
   <br>
   <br>
    <a href="https://www.theagelesswisdom.info/Abridgments/TCF/#C69">Motion on the Plane of Mind</a>
+  <br>
+  <br>
+   <a href="https://bookdown.org/becerra_je/POM-VBA/the-inversion-of-the-laws-of-polarity.html">The Mastery of Neutral Zones</a>
   </div>
 
 ---
