@@ -53,6 +53,8 @@ The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed int
   <img src="http://s3.amazonaws.com/cosmometry/resources/images/000/000/098/original/jit_inout-10speed.gif"/> 
   <br>
   <a href="https://tensegritywiki.com/index.php?title=Jitterbug">Jitterbug</a>
+  <br>
+   <a href="https://agniyoga.info/the-heart-of-space/">The HEART of Space</a>
 </div>
 
 ---
