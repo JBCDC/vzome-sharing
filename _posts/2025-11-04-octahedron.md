@@ -59,6 +59,9 @@ The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed int
   <br>
   <br>
    <a href="https://bookdown.org/becerra_je/POM-VBA/space-is-an-entity.html">Space is an Entity</a>
+  <br>
+  <br>
+   <a href="https://www.theagelesswisdom.info/Abridgments/TCF/#C69">Motion on the Plane of Mind</a>
   </div>
 
 ---
