@@ -55,9 +55,6 @@ The cuboctahedron (B. Fuller's "jitterbug") can be progressively transformed int
   <a href="https://tensegritywiki.com/index.php?title=Jitterbug">Jitterbug</a>
   <br>
   <br>
-   <a href="https://agniyoga.info/the-heart-of-space/">The HEART of Space</a>
-  <br>
-  <br>
    <a href="https://bookdown.org/becerra_je/POM-VBA/space-is-an-entity.html">Space is an Entity</a>
   <br>
   <br>
@@ -82,6 +79,9 @@ Each axis defines a face-to-face spin — meaning you can rotate the VE around t
   <img src="https://geometryofthinking.com/wp-content/uploads/2023/10/seve-axes-ve.gif"/> 
   <br>
   <a href="https://geometryofthinking.com/2023/08/14/vector-equilibrium-and-the-ve/">The Seven Axes of Symmetry</a>
+  <br>
+   <a href="https://agniyoga.info/the-heart-of-space/">The HEART of Space</a>
+  <br>
 </div>
 
 ---
