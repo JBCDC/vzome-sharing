@@ -80,6 +80,7 @@ Each axis defines a face-to-face spin — meaning you can rotate the VE around t
   <br>
   <a href="https://geometryofthinking.com/2023/08/14/vector-equilibrium-and-the-ve/">The Seven Axes of Symmetry</a>
   <br>
+  <br>
    <a href="https://agniyoga.info/the-heart-of-space/">The HEART of Space</a>
   <br>
 </div>
